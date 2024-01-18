@@ -5,7 +5,6 @@ go 1.21
 require (
 	github.com/go-kratos/grpc-gateway/v2 v2.5.1-0.20210811062259-c92d36e434b1
 	github.com/go-kratos/kratos/v2 v2.7.2
-	github.com/go-kratos/swagger-api v1.0.1
 	github.com/gorilla/mux v1.8.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 	github.com/rakyll/statik v0.1.7
