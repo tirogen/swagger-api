@@ -1,6 +1,6 @@
 package openapiv2
 
-import "github.com/go-kratos/grpc-gateway/v2/protoc-gen-openapiv2/generator"
+import "github.com/tirogen/grpc-gateway/v2/protoc-gen-openapiv2/generator"
 
 type options struct {
 	generatorOptions []generator.Option

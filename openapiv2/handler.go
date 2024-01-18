@@ -5,12 +5,12 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/go-kratos/grpc-gateway/v2/protoc-gen-openapiv2/generator"
 	"github.com/go-kratos/kratos/v2/api/metadata"
 	"github.com/go-kratos/kratos/v2/transport/http/binding"
-	_ "github.com/go-kratos/swagger-api/openapiv2/swagger_ui/statik" // import statik static files
 	"github.com/gorilla/mux"
 	"github.com/rakyll/statik/fs"
+	"github.com/tirogen/grpc-gateway/v2/protoc-gen-openapiv2/generator"
+	_ "github.com/tirogen/swagger-api/openapiv2/swagger_ui/statik" // import statik static files
 )
 
 func NewHandler(handlerOpts ...HandlerOption) http.Handler {
