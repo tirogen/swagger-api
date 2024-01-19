@@ -6,7 +6,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.7.2
 	github.com/gorilla/mux v1.8.1
 	github.com/rakyll/statik v0.1.7
-	github.com/tirogen/grpc-gateway/v2 v2.5.1-0.20240118193715-05449cd2e7fa
+	github.com/tirogen/grpc-gateway/v2 v2.5.1-0.20240119032138-3692c2d822e3
 	google.golang.org/grpc v1.60.1
 	google.golang.org/protobuf v1.32.0
 )

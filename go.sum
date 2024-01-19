@@ -31,8 +31,8 @@ github.com/rogpeppe/go-internal v1.10.0 h1:TMyTOH3F/DB16zRVcYyreMH6GnZZrwQVAoYjR
 github.com/rogpeppe/go-internal v1.10.0/go.mod h1:UQnix2H7Ngw/k4C5ijL5+65zddjncjaFoBhdsK/akog=
 github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
 github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
-github.com/tirogen/grpc-gateway/v2 v2.5.1-0.20240118193715-05449cd2e7fa h1:UYtkpnPcDHrkOG3xBg6e/1O0HB9ETMsVRkHgKkuRrsI=
-github.com/tirogen/grpc-gateway/v2 v2.5.1-0.20240118193715-05449cd2e7fa/go.mod h1:POZCPK1l9j7oNNqN+WuRg3As6ZM8qe9/N7nOBIlRXmo=
+github.com/tirogen/grpc-gateway/v2 v2.5.1-0.20240119032138-3692c2d822e3 h1:eeZJ08TsRfPOSbP/yuvGEs9SRByKHkGmRUIQhDpFHd4=
+github.com/tirogen/grpc-gateway/v2 v2.5.1-0.20240119032138-3692c2d822e3/go.mod h1:POZCPK1l9j7oNNqN+WuRg3As6ZM8qe9/N7nOBIlRXmo=
 golang.org/x/net v0.20.0 h1:aCL9BSgETF1k+blQaYUBx9hJ9LOGP3gAVemcZlf1Kpo=
 golang.org/x/net v0.20.0/go.mod h1:z8BVo6PvndSri0LbOE3hAn0apkU+1YvI6E70E9jsnvY=
 golang.org/x/sys v0.16.0 h1:xWw16ngr6ZMtmxDyKyIgsE93KNKz5HKmMa3b8ALHidU=
